@@ -40,5 +40,5 @@ app/
 │   │   └── NewsRepository.kt     # Sample news data provider
 │   ├── res/                      # Resources (layouts, strings, etc.)
 │   └── AndroidManifest.xml       # App configuration
-└── build.gradle.kts              # App-level build configuration
+└── build.gradle                  # App-level build configuration
 ```
