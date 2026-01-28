@@ -1,6 +1,6 @@
 # Simple News App
 
-A basic news application for Android built with Jetpack Compose.
+A simple news application for Android built with Jetpack Compose.
 
 ## Features
 
